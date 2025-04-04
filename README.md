@@ -23,6 +23,7 @@ These must be uploaded manually to Colab.
    - `cosmic_clinvar.tsv`
    - `cosmic_clinvar.tsv`
    - `BIO_application.ipynb`
+     
    *The preview for BIO_applucation.ipynb is not available on GitHub*
 3. Open [Google Colab](https://colab.research.google.com).
 4. Go to **File > Upload Notebook**.
@@ -31,6 +32,7 @@ These must be uploaded manually to Colab.
    - The trained model file (`best_random_forest.pkl`)
    - The original dataset (`cosmic_clinvar.tsv`)
    - The encoded dataset (`cosmic_clinvar.tsv`)
+     
   *Wait for these to be fully uploaded before running the code!*
 7. Run the notebook step by step.
 8. Atlernativelly, you can go to **Runtime > Run all**.

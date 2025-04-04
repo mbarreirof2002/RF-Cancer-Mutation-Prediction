@@ -18,11 +18,7 @@ These must be uploaded manually to Colab.
 
 ## 🚀 How to Use It
 
-1. From the GitHub repository, download the following files:
-   - `best_random_forest.pkl`
-   - `cosmic_clinvar.tsv`
-   - `cosmic_clinvar.tsv`
-   - `BIO_application.ipynb`
+1. From this GitHub repository, download the `BIO_application.ipynb` file
      
    *The preview for BIO_applucation.ipynb is not available on GitHub*
 3. Open [Google Colab](https://colab.research.google.com).

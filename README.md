@@ -34,6 +34,7 @@ These must be uploaded manually to Colab.
    - The encoded dataset (`cosmic_clinvar.tsv`)
      
   *Wait for these to be fully uploaded before running the code!*
+  
 7. Run the notebook step by step.
 8. Atlernativelly, you can go to **Runtime > Run all**.
 9. Use the interactive interface to:

@@ -23,6 +23,7 @@ These must be uploaded manually to Colab.
    - `cosmic_clinvar.tsv`
    - `cosmic_clinvar.tsv`
    - `BIO_application.ipynb`
+   *The preview for BIO_applucation.ipynb is not available on GitHub*
 3. Open [Google Colab](https://colab.research.google.com).
 4. Go to **File > Upload Notebook**.
 5. Upload the `BIO_application.ipynb` file.

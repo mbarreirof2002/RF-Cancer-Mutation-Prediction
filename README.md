@@ -18,21 +18,26 @@ These must be uploaded manually to Colab.
 
 ## 🚀 How to Use It
 
-1. Open [Google Colab](https://colab.research.google.com).
-2. Go to **File > Upload Notebook**.
-3. Upload the `BIO_application.ipynb`file.
-4. In the **Files section** (left menu), upload the following files:
+1. From the GitHub repository, download the following files:
+   - `best_random_forest.pkl`
+   - `cosmic_clinvar.tsv`
+   - `cosmic_clinvar.tsv`
+   - `BIO_application.ipynb`
+3. Open [Google Colab](https://colab.research.google.com).
+4. Go to **File > Upload Notebook**.
+5. Upload the `BIO_application.ipynb` file.
+6. In the **Files section** (left menu), upload the following files:
    - The trained model file (`best_random_forest.pkl`)
    - The original dataset (`cosmic_clinvar.tsv`)
    - The encoded dataset (`cosmic_clinvar.tsv`)
   *Wait for these to be fully uploaded before running the code!*
-5. Run the notebook step by step.
-6. Atlernativelly, you can go to **Runtime > Run all**.
-7. Use the interactive interface to:
+7. Run the notebook step by step.
+8. Atlernativelly, you can go to **Runtime > Run all**.
+9. Use the interactive interface to:
    - Type a gene name to search and encode it
    - Modify key mutation attributes (e.g., BLOSUM62 score, Hydrophobicity)
    - Select mutation type and somatic status
-8. Click **Predict** to see the classification result and confidence.
+10. Click **Predict** to see the classification result and confidence.
 
 ## 💡 Features
 

@@ -27,7 +27,7 @@ These must be uploaded manually to Colab.
 6. In the **Files section** (left menu), upload the following files:
    - The trained model file (`best_random_forest.pkl`)
    - The original dataset (`cosmic_clinvar.tsv`)
-   - The encoded dataset (`cosmic_clinvar.tsv`)
+   - The processed dataset (`cosmic_clinvar_processed.tsv`)
      
   *Wait for these to be fully uploaded before running the code!*
   

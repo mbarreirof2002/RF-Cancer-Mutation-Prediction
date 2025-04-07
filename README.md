@@ -4,7 +4,7 @@ An Interpretability-Focused Approach to Predicting the Effect of Cancer Mutation
 
 # 🧬 BIO_application – Cancer Mutation Classifier with Interactive Prediction
 
-This notebook provides an interactive interface to explore and predict the pathogenicity of human cancer mutations using a pre-trained Random Forest model. It allows users to adjust mutation properties and immediately see how the model classifies the result as **Pathogenic** or **Benign**, along with a confidence score.
+This notebook provides an interactive interface to explore and predict the pathogenicity of human cancer mutations using a pre-trained Random Forest model. To understand how the model was developed and its performance, see `MOL3022_report.pdf`. It allows users to adjust mutation properties and immediately see how the model classifies the result as **Pathogenic** or **Benign**, along with a confidence score.
 
 ## 📋 What You Need Before Starting
 
